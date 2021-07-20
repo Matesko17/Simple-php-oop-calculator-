@@ -11,7 +11,7 @@
     <title>Document</title>
 </head>
 <body>
-
+    <h2>I added H2 localy</h2>
     <form action="includes/calc.inc.php" method="post">
         <p>My own calculator!</p>
         <input type="number" name="num1" placeholder="First number">
