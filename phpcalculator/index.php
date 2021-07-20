@@ -25,5 +25,9 @@
         <button type="submit" name="submit">Calculate</button>
     </form>
 
+    <div>
+        <h2>This is footer</h2>
+    </div>
+
 </body>
 </html>
