@@ -27,6 +27,7 @@
 
     <div>
         <h2>This is footer</h2>
+        <p>Footer upgrade</p>
     </div>
 
 </body>
